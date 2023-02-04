@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CC57D1C8-7F4D-4517-90E1-A74BBCC92349"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8E0A66E-A60F-4F00-BF0A-DED8AE86B4EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArStyles/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "HomeViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D8E0A66E-A60F-4F00-BF0A-DED8AE86B4EC - 16128b498f2dde1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArStyles.HomeViewController.providerLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ArStyles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erick/Documents/Diplomado/ProyectoFinal_iOS/ArStyles/ArStyles/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D8E0A66E-A60F-4F00-BF0A-DED8AE86B4EC - 4ae51b81690a31f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArStyles.HomeViewController.providerLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ArStyles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erick/Documents/Diplomado/ProyectoFinal_iOS/ArStyles/ArStyles/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "D8E0A66E-A60F-4F00-BF0A-DED8AE86B4EC - 5efd21e39af1f4e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArStyles.HomeViewController.providerLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ArStyles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erick/Documents/Diplomado/ProyectoFinal_iOS/ArStyles/ArStyles/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D8E0A66E-A60F-4F00-BF0A-DED8AE86B4EC - 161ebad27f35d220"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArStyles.HomeViewController.providerLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ArStyles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erick/Documents/Diplomado/ProyectoFinal_iOS/ArStyles/ArStyles/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "D8E0A66E-A60F-4F00-BF0A-DED8AE86B4EC - 82106560d9f11e9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArStyles.HomeViewController.init(email: Swift.String, provider: ArStyles.ProviderType) -&gt; ArStyles.HomeViewController"
+                  moduleName = "ArStyles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erick/Documents/Diplomado/ProyectoFinal_iOS/ArStyles/ArStyles/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "D8E0A66E-A60F-4F00-BF0A-DED8AE86B4EC - 731c67f3f0024f24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArStyles.HomeViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ArStyles.HomeViewController&gt;"
+                  moduleName = "ArStyles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erick/Documents/Diplomado/ProyectoFinal_iOS/ArStyles/ArStyles/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCD22146-0E94-4370-9E39-2F84034BDFE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArStyles/AuthViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1F23C01-2DC9-4FC1-A4F8-87A6DE1B6D29"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArStyles/Controller/ProductsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

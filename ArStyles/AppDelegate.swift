@@ -6,16 +6,46 @@
 //
 
 import UIKit
+import FirebaseCore
+import GoogleSignIn
+
+import Network
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
+    
+    var internetStatus = false
+    var internetType = ""
 
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        
+        //Verificando permisos de internet
+        let monitor = NWPathMonitor()
+        monitor.pathUpdateHandler = { path in
+            // path es un argumento que llega a la función
+            if path.status != .satisfied {
+                self.internetStatus = false
+            } else {
+                self.internetStatus = true
+                // TODO: si hay internet, checar de que tipo
+                if path.usesInterfaceType(.wifi) {
+                    self.internetType = "WIFI"
+                }
+                else if path.usesInterfaceType(.cellular) {
+                    self.internetType = "CELL"
+                }
+            }
+        }
+        
+        //Firebase
+        FirebaseApp.configure()
+        
         return true
     }
+    
+    
 
     // MARK: UISceneSession Lifecycle
 
